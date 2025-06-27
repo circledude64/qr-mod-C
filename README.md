@@ -1,5 +1,5 @@
-# Quantum Realm Mod
+# The Quantum Realm Mod
 
-A Mindustry mod solely dedicated for roleplaying and builds, filled with way too many stuff. 
+*A pretty sizeable - nontypical Mindustry mod, dedicated to improve and expand the RP experience.*
 
-*Made by Adrift, and help from several others*
+Official mod of the Quantum Realm, and the Chaotican Archives.
