@@ -89,7 +89,7 @@ weapons: [
           cone: 0
           randLength: false
           colorFrom: 0050ff
-          colorTo: 0050fff
+          colorTo: ffffff
         }
       ]
       hitEffect: {
@@ -144,7 +144,7 @@ weapons: [
     alternate: true
     rotate: false
     shootSound: laser
-    reload: 20
+    reload: 15
     recoil: 0.9
     shootCone: 360
     bullet: {
@@ -160,7 +160,7 @@ weapons: [
       pointEffect: [
         {
           type: ParticleEffect
-          particles: 1
+          particles: 2
           line: true
           lifetime: 10
           length: -0.0001
@@ -171,7 +171,7 @@ weapons: [
           cone: 0
           randLength: false
           colorFrom: 0050ff
-          colorTo: 0050fff
+          colorTo: ffffff
         }
       ]
       hitEffect: {
@@ -200,7 +200,7 @@ weapons: [
           strokeTo: 0
           cone: 20
           colorFrom: 0050ff
-          colorTo: 0050fff
+          colorTo: ffffff
         }
         {
 			   	  type: ParticleEffect
@@ -223,7 +223,7 @@ weapons: [
     y: 0 
     layer: 2 
     layerOffset: 2
-    mirror: false
+    mirror: true
     alternate: false
     rotate: false
     shootSound: artillery
@@ -248,7 +248,7 @@ weapons: [
       splashDamageRadius: 75
       splashDamage: 100000    
       lifetime: 250                              
-      frontColor: 0050ff
+      frontColor: ffffff
       sprite: large-orb
       backColor: 0050ff
       trailColor: 0050ff
@@ -265,7 +265,7 @@ weapons: [
           sizeFrom: 17.5
           sizeTo: 0
           colorFrom: 0050ff
-          colorTo: 0050ff
+          colorTo: 0080ff
           interp: pow5Out
           sizeInterp: pow3Out
         }
@@ -277,7 +277,7 @@ weapons: [
           sizeFrom: 10.5
           sizeTo: 0
           colorFrom: 0050ff
-          colorTo: 0050ff
+          colorTo: 0080ff
           interp: pow5Out
           sizeInterp: pow3Out
         }
@@ -294,7 +294,7 @@ weapons: [
           strokeFrom: 5.4
           strokeTo: 0
           colorFrom: 0050ff
-          colorTo: 0050ff
+          colorTo: 0080ff
           interp: pow3Out
         }
         {
@@ -305,7 +305,7 @@ weapons: [
           strokeFrom: 2.77
           strokeTo: 0
           colorFrom: 0050ff
-          colorTo: 0050ff
+          colorTo: 0080ff
         }
       ]
     }

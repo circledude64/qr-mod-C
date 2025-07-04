@@ -3,6 +3,7 @@
     "name": "Invis Cell",
     "health": 600,
     "size": 1,
+    "variants": 1,
     "memoryCapacity": 2048,
     "alwaysUnlocked": true,
     "requirements": [],

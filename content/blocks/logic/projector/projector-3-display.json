@@ -4,6 +4,7 @@
     "health": 100,
     "size": 1,
     "displaySize": 96,
+    "clipSize": 24,
     "requirements": [
         "metaglass/50",
         "camod-green/25"

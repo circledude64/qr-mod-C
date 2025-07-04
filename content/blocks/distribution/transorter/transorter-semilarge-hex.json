@@ -6,11 +6,12 @@
     "brightness": 0,
     "radius": 0,
     "alwaysUnlocked": true,
+    "blockGroup": "transportation",
     "hasShadow": false,
     "requirements": [
      "camod-spectral/6"
     ],
-    "category": "effect",
+    "category": "distribution",
     "research": {
     
     }

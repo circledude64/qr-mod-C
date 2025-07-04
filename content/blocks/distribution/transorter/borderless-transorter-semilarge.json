@@ -4,6 +4,7 @@
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
+    "blockGroup": "transportation",
     "hasShadow": false,
     "requirements": [
         "copper/2",
