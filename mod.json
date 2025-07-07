@@ -51,5 +51,5 @@ Click, Hurb, Nameless - Minor help with sprites and ideas"
 repo: "GMugXD/qr-mod"
 minGameVersion: 143
 version: 6
-hidden: true
+hidden: false
 dependecies: []
