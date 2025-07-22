@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Plant",
+    "name": "Chiseled Plant Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
