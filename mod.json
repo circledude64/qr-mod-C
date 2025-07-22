@@ -7,5 +7,5 @@ adrift, for the original"
 repo: "circledude64/qr-mod-C"
 minGameVersion: 143
 version: 6
-hidden: true
+hidden: false
 dependecies: []
