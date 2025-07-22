@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Map",
+    "name": "Chiseled Map Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
