@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Image",
+    "name": "Chiseled Picture msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
