@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Arrow - Left",
+    "name": "Chiseled Left Arrow Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
