@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Dice",
+    "name": "Die",
     "health": 600,
     "size": 1,
   "variants": 10,
