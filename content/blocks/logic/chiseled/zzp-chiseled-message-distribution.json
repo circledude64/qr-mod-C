@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Distribution",
+    "name": "Chiseled Distribution Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
