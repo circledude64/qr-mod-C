@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-House",
+    "name": "Chiseled House Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
