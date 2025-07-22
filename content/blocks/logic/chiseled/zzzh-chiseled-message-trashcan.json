@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Trashcan",
+    "name": "Chiseled Bin Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
