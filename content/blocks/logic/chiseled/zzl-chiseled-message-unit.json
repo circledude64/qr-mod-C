@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Unit",
+    "name": "Chiseled Unit Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
