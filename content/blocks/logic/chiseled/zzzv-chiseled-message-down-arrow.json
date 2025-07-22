@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg-Arrow - Down",
+    "name": "Chiseled Down Arrow Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
