@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chiseled Msg Gun",
+    "name": "Chiseled Gun Msg",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
